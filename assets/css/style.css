@@ -108,47 +108,7 @@ img{
 }
 
 
-/*========= Hero Section Css====*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*========= Hero Section Css ===========
-
-
+/*========= Hero Section Css====*/
  .nav_header{
    background: #FFF;
    overflow: hidden;
@@ -185,15 +145,15 @@ img{
   color: #0F2137;
   margin-left: 48px;
   display: inline-block;
-  transition: 0.5s;
   border-bottom: 5px solid transparent;
+  transition: 0.5s; 
 }
 .menu_area ul li a:hover{
   color: #28DCB2;
   transition: 0.5s;
   border-bottom: 5px solid #28DCB2;
 }
-/*Hero Css 
+/*====Hero  section =======*/ 
 
 .hero_section{
   background: #FFF;
@@ -219,7 +179,7 @@ img{
   content: "";
   width: 302px;
   height: 347px;
-  background: url('../photos/hero/hero-dot-overlay.png');
+  background: url('../images/hero/hero-dot-overlay.png');
   background-repeat: no-repeat;
   background-size: 100% 100%;
   top: -51px;
@@ -241,7 +201,8 @@ img{
   color: #02073E;
   padding-bottom: 47px;
 }
-.explore_btn a {
+
+.explore_button a {
   background: #28DDB2;
   border-radius: 6px;
   font-weight: 700;
@@ -253,13 +214,13 @@ img{
   display: inline-block;
   transition: 0.5s;
 }
-
-.explore_btn a:hover {
+/*===== Button =========*/
+.explore_button a:hover {
   background: #4F96FF;
   transition: 0.5s;
 }
 
-.explore_btn {
+.explore_button {
   padding-bottom: 48px;
 }
 .client_logo ul li {
@@ -269,3 +230,94 @@ img{
   margin-right: 28px;
   display: inline-block;
 }
+/*===== Button end =========*/
+/*===== start unlimited_features======*/
+
+.unlimited_features{
+    padding-top: 70px;
+    overflow: hidden;
+    background: FFFFFF;
+}
+.container_custom{
+
+}
+
+
+.unlt_features_heading{
+max-width: 583px;
+width: 100%;
+margin: auto;
+}
+.unlt_features_heading h1{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 50px;
+    text-align: center;
+    letter-spacing: -0.5px;
+    color: #0F2137;
+}
+.unlt_features_heading p{
+ font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 35px;
+    text-align: center;
+    color: #0F2137;
+    padding-top: 10px;
+    padding-bottom: 90px;
+}
+
+/*====End unlt features_heading=====*/
+
+
+/*====unlt_features_area=====*/
+
+.unlt_features_area{
+float: left;
+    width: 22%;
+    padding-bottom: 179px;
+    margin-left: 34px;
+}
+.feature_logo {
+padding-bottom: 39px;
+}
+
+.feature_logo a{
+    background: #ffffff;
+    border-radius: 50px;
+    padding: 15px 15px;
+    display: inline-block;
+    transition: 0.5s;
+    box-shadow: 1px 1px #fff4f4;
+}
+
+.feature_logo img{
+
+}
+
+.feature_contant{
+
+}
+.feature_contant h5{
+font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    color: #0F2137;
+    padding-bottom: 25px;
+}
+
+.feature_contant p{
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+color: #343D48;
+}
+
+
