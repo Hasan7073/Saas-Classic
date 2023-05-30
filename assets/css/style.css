@@ -526,10 +526,9 @@ color: #0F2137;
     font-size: 17px;
     line-height: 42px;
     color: #02073E;
-    padding-bottom: 34px;
 }
 .smart_check_area{
-
+padding-top: 34px;
 }
 .smart_check_contant{
 
@@ -550,7 +549,7 @@ font-family: 'DM Sans';
 }
 
 .samrt_btn{
-
+padding-top: 30px;
 }
 .samrt_btn a{
 
