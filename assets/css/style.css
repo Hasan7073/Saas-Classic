@@ -820,14 +820,63 @@ font-family: 'DM Sans';
     color: #0F2137;
     padding-bottom: 53px;
 }
-.pricing_btn_area{
-
+.tab_title_area {
+    max-width: 303px;
+    margin: auto;
 }
-.pricing_btn{
-
+.tab_title_content {
+    background: #F7F8FB;
+    padding: 6px;
+    border-radius: 8px;
 }
-.pricing_btn a{
+.tab_title_content ul li {
+    display: inline;
+    text-align: center;
+}
+.tab_title_content ul {
+    text-align: center;
+}
+.tab_title_content ul li a {
+    text-align: center;
+    display: inline-block;
+    background: #FFFFFF;
+    box-shadow: 0px 3px 3.8px rgba(38, 78, 118, 0.1);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.24px;
+    color: #0F2137;
+    padding: 11px 25px;
+    border-radius: 11px;
+    transition: 0.5s;
+}
+.tab_title_content ul li:last-child a {
+  background: transparent;
+  box-shadow: 0px 3px 3.8px transparent;
+}
 
+.tab_title_content ul li:last-child a:hover {
+ background: #FFFFFF;
+ box-shadow: 0px 3px 3.8px rgba(38, 78, 118, 0.1);
+ transition: 0.5s;
+}
+.tab_title_content{
+  position: relative;
+}
+.tab_title_content p {
+    position: absolute;
+    z-index: 2;
+    top: -16px;
+    right: 29px;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 28px;
+    letter-spacing: -0.14px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background: #36CDA4;
+    border-radius: 50px;
+    padding: 1px 15px;
 }
 /*===End_pricing_policy_heading===*/
 /*===pricing_policy_left===*/
