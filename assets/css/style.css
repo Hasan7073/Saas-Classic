@@ -696,7 +696,7 @@ font-family: 'DM Sans';
     color: #343D48;
 }
 /*===End_amazing_features====*/
-
+/*===start_ultimate_widget====*/
 .ultimate_widget{
   background: #FFF7F5;
     overflow: hidden;
@@ -785,4 +785,111 @@ font-size: 16px;
 line-height: 42px;
 color: #4F96FF;
 }
+/*===start_ultimate_widget====*/
 
+/*=== Start_pricing_policy ==*/
+.pricing_policy_section{
+overflow: hidden;
+    padding-top: 110px;
+    display: block;
+}
+.container_custom{}
+.pricing_policy_heading{
+    max-width: 583px;
+    width: 100%;
+    margin: auto;
+}
+.pricing_policy_heading h1{
+font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 50px;
+    text-align: center;
+    letter-spacing: -0.5px;
+    color: #0F2137;
+    padding-bottom: 10px;
+}
+.pricing_policy_heading p{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 35px;
+    text-align: center;
+    color: #0F2137;
+    padding-bottom: 53px;
+}
+.pricing_btn_area{
+
+}
+.pricing_btn{
+
+}
+.pricing_btn a{
+
+}
+/*===End_pricing_policy_heading===*/
+/*===pricing_policy_left===*/
+
+.pricing_policy_left{
+
+}
+.pricing_policy_left h4{
+
+}
+.pricing_policy_left p{
+
+}
+
+
+.pricing_check_point{
+
+}
+.pricing_check_point img{
+
+}
+.pricing_check_point p{
+
+}
+.start_btn{
+
+}
+.start_btn a{
+
+}
+
+
+.pricing_policy_right{
+
+}
+.tag_btn{
+
+}
+.tag_btn a{
+
+}
+
+
+.pricing_tagline{
+
+}
+.pricing_tagline_left{
+
+}
+.pricing_tagline_left h4{
+
+}
+.pricing_tagline_left p{
+
+}
+
+.pricing_tagline_right{
+
+}
+.pricing_tagline_right h3{
+
+}
+.pricing_tagline_right h4{
+
+}
