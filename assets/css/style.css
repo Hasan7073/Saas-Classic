@@ -878,11 +878,18 @@ font-family: 'DM Sans';
     border-radius: 50px;
     padding: 1px 15px;
 }
+
 /*===End_pricing_policy_heading===*/
+
 /*===pricing_policy_left===*/
-
+.pricing_policy_area{
+  overflow: hidden;
+  padding-top: 50px;
+}
 .pricing_policy_left{
-
+    float: left;
+    width: 42%;
+    margin: 4%;
 }
 .pricing_policy_left h4{
 
@@ -910,7 +917,9 @@ font-family: 'DM Sans';
 
 
 .pricing_policy_right{
-
+    float: left;
+    width: 42%;
+    margin: 4%;
 }
 .tag_btn{
 
