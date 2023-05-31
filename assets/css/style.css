@@ -555,7 +555,9 @@ color: #4F96FF;
 /*======= start_talent_team=======*/
 
 .talent_team{
-
+overflow: hidden;
+    display: block;
+    margin-bottom: 140px;
 }
 .container_custom{
 
@@ -607,9 +609,180 @@ color: #4F96FF;
   height: 608px;
   margin: auto;
   margin-top: 30px;
-  padding-bottom: 140px;
 }
 .talent_video video{
 width: 100%;
-height: 150%;
+height: 100%;
 }
+/*======= End_talent_team=======*/
+/*=== Start_amazing_features====*/
+
+.amazing_features{
+    overflow: hidden;
+    display: block;
+    background: #F9FAFC;
+    padding-bottom: 70px;
+}
+.container_custom{
+
+}
+.amazing_heading_area{
+    max-width: 583px;
+    width: 100%;
+    margin: auto;
+    padding-top: 58px;
+    padding-bottom: 120px;
+}
+.amazing_heading_area h1{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 50px;
+    text-align: center;
+    letter-spacing: -0.5px;
+    color: #0F2137;
+    padding-bottom: 10px;
+}
+.amazing_heading_area p{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 35px;
+    text-align: center;
+    color: #0F2137;
+}
+
+
+.amazing_contant_area{
+
+}
+
+.amazing_single{
+    width: 42%;
+    float: left;
+    margin: 4%;
+}
+
+.amazing_icon_side{
+     float: left;
+    width: 20%;
+    margin-top: -20px;
+}
+.amazing_icon_side img{
+
+}
+
+.amazing_text_side{
+    float: left;
+    width: 80%;
+}
+.amazing_text_side h4{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    color: #0F2137;
+    padding-bottom: 25px;
+}
+.amazing_text_side p{
+font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 30px;
+    color: #343D48;
+}
+/*===End_amazing_features====*/
+
+.ultimate_widget{
+  background: #FFF7F5;
+    overflow: hidden;
+    display: block;
+    padding-top: 135px;
+    padding-bottom: 157px;
+}
+.container_custom{
+
+}
+
+.ultimate_widget_iamge{
+    float: left;
+    width: 50%;
+}
+.ultimate_widget_iamge img{
+
+}
+
+.ultimate_contant{
+    float: left;
+    width: 50%;
+}
+.ultimate_contant_area{
+    max-width: 511px;
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+}
+.ultimate_contant_area h1{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 60px;
+    letter-spacing: -1.5px;
+    color: #0F2137;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+.ultimate_contant_area p{
+ font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 42px;
+    color: #02073E;
+}
+
+.ultimate_check_area{
+padding-top: 30px;
+}
+
+.ultimate_check_contant{
+
+}
+.ultimate_check_contant img{
+    float: left;
+    margin-right: 10px;
+    overflow: hidden;
+    padding-top: 12px;
+}
+.ultimate_check_contant p{
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 45px;
+
+
+color: #02073E;
+}
+
+.ultimate_btn{
+padding-top: 30px;
+}
+.ultimate_btn a{
+
+}
+.ultimate_btn a p{
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 42px;
+color: #4F96FF;
+}
+
