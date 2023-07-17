@@ -897,6 +897,15 @@ overflow: hidden;
     border: 2px solid #F3F4F5;
     border-radius: 10px;
     padding: 21px 40px 50px 40px;
+     transition: 0.6;
+}
+.pricing_policy:hover{
+background-color:#F7F8FB;
+  transition: 0.6;
+}
+.pricing_policy:nth-child(2){
+   border: 2px solid #25CB9E;
+    border-radius: 10px;
 }
 .pricing_policy h4{
     font-family: 'DM Sans';
